@@ -1,2 +1,2 @@
 Locations
-[[Dawn City/Locations/Dawn City/Dawn City|Dawn City]]
+[Dawn City](Dawn%20City/Locations/Dawn%20City/Dawn%20City.md)
