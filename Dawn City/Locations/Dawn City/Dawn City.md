@@ -1,11 +1,5 @@
-[[Soul Arbiter Coast]]
-[[Eclipse Bay]]
-[[First Light District]]
-[[Second Light District]]
-[[Last Light District]]
 
-
-Dawn City can be seen as a hub circling around the Triumvirate of the Arcanus Cognoscienti. The governing body sits high in the tallest skyscraper in the city, the @MoonReach Obelisk,
+Dawn City can be seen as a hub circling around the Triumvirate of the Arcanus Cognoscienti. The governing body sits high in the tallest skyscraper in the city, the [[Last Light District/Moonreach Obelisk/Moonreach Obelisk/Moonreach Obelisk|Moonreach Obelisk]],
 
 ### Geography
 
