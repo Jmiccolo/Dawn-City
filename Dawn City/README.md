@@ -1,1 +1,0 @@
-This is the public repository for Dawn-City. 
