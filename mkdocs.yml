@@ -1,5 +1,8 @@
 site_name: Dawn City
 
+nav:
+  - Dawn City: index.md
+  - Locations: locations.md
 theme:
   name: "material"
   palette:
