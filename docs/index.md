@@ -4,7 +4,7 @@
 ---
 ### Player Characters
 
-**As a player in Dawn City you take on a character whose life has been consumed by the city. Whether that is for the dreams of what it can provide or the weight that it puts on you. Your characters should take a part in the city and have a regular life outside of what might happen in the storyline. 
+**As a player in Dawn City you take on a character whose life has been consumed by the city. Whether that is for the dreams of what it can provide or the weight that it puts on you. Your characters should take a part in the city and have a regular life outside of what might happen in the storyline.**
 
 **That being said, sometimes the weight of the city becomes too much and a character might meet an end unforeseen. I am recommending a back up character at all times that will level with the main storyline.**
 
