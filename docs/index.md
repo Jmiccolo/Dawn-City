@@ -2,7 +2,7 @@
 
 **Dawn City, a bustling metropolis of tall skyscrapers and taller mage towers, lights up and glimmers across the puddles of rain as millions of inhabitants traverse its clogged arteries of car-lined streets and train lines. The Triumvirate of the Arcanus Cognoscienti who built this city gave birth to new Arcanotech the world had never known, creating a seat of authority and privilege for those who could control it. The exportation of this Arcanotech drove trade and development throughout the city and brought people from all over to attempt their hand at extracting a piece of the riches for themselves. "If you can make it to Dawn City," a phrase often uttered by the optimistic in search of opportunity, is hardened by the fact that to travel to Dawn City can be dangerous. Those unable to pay their way onto airlines or ships into the city must brave the ShadeMounts, a desolate mountain range containing some of the most threatening magical beasts discovered. As the city grew in prominence, so has its underbelly. Organized crime, smuggling, money laundering, and all other seedy business has given rise to a secondary meaning of the phrase, "If you can make it to dawn” city. Those wishing to survive this city now do so through ignorance and hard work or by rising through the ranks of its darker side. How will you fair when the weight of the city bears down on you?**
 
-
+---
 ### Player Characters
 
 **As a player in Dawn City you take on a character whose life has been consumed by the city. Whether that is for the dreams of what it can provide or the weight that it puts on you. Your characters should take a part in the city and have a regular life outside of what might happen in the storyline. 
@@ -20,6 +20,8 @@
 ### Backgrounds
 
 **Custom backgrounds will be created for each character based on their backstory in the city. If you wish to stick to a specific background from the published DnD material ask the DM.**
+
+---
 
 ## Gritty Realism
 
