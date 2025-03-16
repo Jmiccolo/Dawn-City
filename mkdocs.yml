@@ -49,6 +49,7 @@ markdown_extensions:
 
   - toc:
       permalink: true
+      toc_depth: 1
 
 extra_javascript:
   - javascripts/mathjax.js
