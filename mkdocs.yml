@@ -1,25 +1,7 @@
 site_name: Dawn City
 
 theme:
-  name: "windmill-dark"
-  palette:
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: pink
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: pink
-      accent: blue
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+  name: "risonia"
 
 # Extensions
 markdown_extensions:
@@ -49,6 +31,11 @@ markdown_extensions:
       toc_depth: 0
 plugins:
   - roamlinks
+  - color-theme: # optional
+      theme_color: "#000" # primary color
+      secondary_color: "Complementary" # can be a color or scheme
+      light_text_color: "#8610ee" # black
+      dark_text_color: "#8610ee" # white
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
