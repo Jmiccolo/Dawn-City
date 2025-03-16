@@ -1,8 +1,5 @@
 site_name: Dawn City
 
-nav:
-  - Home: index.md
-  - Locations: Locations/index.md
 theme:
   name: "windmill-dark"
   palette:
