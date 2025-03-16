@@ -1,10 +1,10 @@
 site_name: Dawn City
 
 nav:
-  - Dawn City: index.md
+  - Home: index.md
   - Locations: locations.md
 theme:
-  name: "material"
+  name: "windmill-dark"
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
