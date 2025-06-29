@@ -16,6 +16,5 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs-material
       - run: pip install mkdocs-roamlinks-plugin
-      - run: pip install mkdocs-risonia-theme
-      # - run: pip install mkdocs-mermaid2-plugin
+      - run: pip install mkdocs-simple-blog
       - run: mkdocs gh-deploy --force

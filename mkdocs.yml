@@ -1,7 +1,7 @@
 site_name: Dawn City
 
 theme:
-  name: "risonia"
+  name: "simple-blog"
 
 # Extensions
 markdown_extensions:
