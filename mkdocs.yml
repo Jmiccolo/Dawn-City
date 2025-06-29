@@ -30,11 +30,6 @@ markdown_extensions:
       toc_depth: 0
 plugins:
   - roamlinks
-  - color-theme: # optional
-      theme_color: "#000" # primary color
-      secondary_color: "Complementary" # can be a color or scheme
-      light_text_color: "#8610ee" # black
-      dark_text_color: "#8610ee" # white
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
