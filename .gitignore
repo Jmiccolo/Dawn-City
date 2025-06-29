@@ -2,3 +2,4 @@
 docs/.obsidian/
 site/
 .DS_Store
+/docs/Templates/**
