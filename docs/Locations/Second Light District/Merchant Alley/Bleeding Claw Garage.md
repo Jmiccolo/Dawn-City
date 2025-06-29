@@ -1,1 +1,3 @@
-The Bleeding Claw Garage sits in the northern section of Merchant Alley in a small garage. Delivery Trucks stop every few days to unload/load cargo from the garage. 
+# Bleeding Claw Garage
+
+**The Bleeding Claw Garage sits in the northern section of Merchant Alley in a small garage. Delivery Trucks stop every few days to unload/load cargo from the garage.** 

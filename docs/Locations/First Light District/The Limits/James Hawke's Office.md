@@ -1,3 +1,5 @@
+# James Hawke's Office
+
 **The party, having had a night out with [[Lucy Daring]], stumbles upon [[James Hawke]]’s office after a storm rolls in and rain pours down. The four-story brownstone building has slightly worn marble stairs leading to the front door. James’s office, the last one on the right, has a wooden door adorned with frosted glass and the title “James Hawke Private Investigator” in gold lettering. The door is ajar, revealing a secretary’s office with a half-wall frosted window divider. The waiting room appears disheveled, with an armchair tipped over and acid burns on its edge. A brown leather couch bears a large sword slash and burns through the tears. All the items on Carissa Cross’s desk are strewn across the floor: pencils, a stapler, and the Appointment Book.**
 
 **Crossing the threshold into James’s office, the party is met with a chaotic scene. Papers have exploded across the floor from open cabinet drawers, and one bookshelf has fallen to the ground. Blood splatters from blade strikes litter the numerous pictures showing James shaking hands with city leaders and victims he has saved or provided retribution for.**
