@@ -28,6 +28,9 @@ markdown_extensions:
 
   - toc:
       toc_depth: 0
+extra:
+  status:
+    new: Newly created page! 
 plugins:
   - roamlinks
 extra_javascript:
