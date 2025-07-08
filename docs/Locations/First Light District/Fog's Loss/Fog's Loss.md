@@ -1,1 +1,3 @@
-# Fog's Loss
+---
+title: Fog's Loss
+---
