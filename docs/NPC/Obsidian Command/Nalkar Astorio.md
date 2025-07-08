@@ -1,4 +1,6 @@
-# Nalkar Astorio
+---
+title: Nalkar Astorio
+---
 
 [[Daknar Astorio]]'s Grandfather
 

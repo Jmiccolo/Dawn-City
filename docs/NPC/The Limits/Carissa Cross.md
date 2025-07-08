@@ -1,3 +1,5 @@
-# Carissa Cross
+---
+title: Carissa Cross
+---
 
 Secretary of [[James Hawke]]. 

@@ -1,4 +1,6 @@
-# Argalyn
+---
+title: Argalyn
+---
 
 Argalyn, a dark-haired half-elf, strolls confidently through Merchant Alley, her eyes gleaming with anticipation. She believes she’ll find new items to sell or charming individuals to hire for her next endeavor. As a child of affluent parents, she’s been residing in Merchant Alley, but recently, she was informed that she must fend for herself.
 

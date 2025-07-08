@@ -1,4 +1,6 @@
-# Court of Guards
+---
+title: Court of Guards
+---
 
 
 

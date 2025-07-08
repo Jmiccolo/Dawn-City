@@ -1,4 +1,6 @@
-# Homestead Apartments
+---
+title: Homestead Apartments
+---
 
 
  

@@ -1,4 +1,6 @@
-# Daknar Astorio
+---
+title: Daknar Astorio
+---
 
 Daknar “Dak” Astorio, the son of [[Gaggar Astorio]], the son of the former [[Obsidian Command]] General [[Nalkar Astorio]], works as a young soldier on the wall, protecting Dawn City from potential threats beyond its gates. While he feels compelled to follow in his lineage’s footsteps, he finds purpose in seeking justice outside the command, taking bounties whenever he can.
 

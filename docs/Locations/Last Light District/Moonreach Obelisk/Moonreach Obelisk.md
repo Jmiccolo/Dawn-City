@@ -1,2 +1,4 @@
-# Moonreach Obelisk
+---
+title: Moonreach Obelisk
+---
 

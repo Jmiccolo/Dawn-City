@@ -1,1 +1,3 @@
-# The Plundered Purse
+---
+title: The Plundered Purse
+---

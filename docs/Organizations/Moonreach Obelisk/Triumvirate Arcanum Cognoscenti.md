@@ -1,1 +1,3 @@
-# Triumvirate Arcanum Cognoscenti
+---
+title: Triumvirate Arcanum Cognoscenti
+---

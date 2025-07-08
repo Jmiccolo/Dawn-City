@@ -1,1 +1,3 @@
-# The Verdant Corridor
+---
+title: The Verdant Corridor
+---

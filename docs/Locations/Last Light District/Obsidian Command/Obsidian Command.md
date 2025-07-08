@@ -1,1 +1,3 @@
-# Obsidian Command
+---
+title: Obsidian Command
+---

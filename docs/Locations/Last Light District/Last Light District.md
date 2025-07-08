@@ -1,2 +1,4 @@
-# Last Light District
+---
+title: Last Light District
+---
 

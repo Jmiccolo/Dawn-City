@@ -1,4 +1,6 @@
-# Lucy Daring
+---
+title: Lucy Daring
+---
 
 ![[Lucy Daring.png]]
 

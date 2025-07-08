@@ -1,4 +1,6 @@
-# Welcome To Dawn City
+---
+title: Welcome to Dawn City
+---
 
 **Dawn City, a vibrant metropolis adorned with towering skyscrapers and even taller mage towers, comes alive with a dazzling display of lights as millions of inhabitants navigate its congested streets and train lines. The Triumvirate of the Arcanus Cognoscienti, the architects of this city, gave birth to groundbreaking Arcanotech, a technology unlike anything the world had ever witnessed. This innovation established Dawn City as a bastion of authority and privilege, accessible only to those who possessed the ability to wield its power. The exportation of this Arcanotech catalyzed trade and development throughout the city, attracting people from distant lands who sought to claim a share of its riches for themselves.**
 

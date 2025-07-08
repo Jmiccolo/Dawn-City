@@ -1,4 +1,6 @@
-# Orin Connak
+---
+title: Orin Connak
+---
 
 ![[Orin Connak.png]]
 

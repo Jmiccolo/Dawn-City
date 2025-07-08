@@ -1,1 +1,3 @@
-# Soul Arbiter Coast
+---
+title: Soul Arbiter Coast
+---

@@ -1,1 +1,3 @@
-# Eclipse Bay
+---
+title: Eclipse Bay
+---

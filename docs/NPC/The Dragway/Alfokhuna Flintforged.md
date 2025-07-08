@@ -1,4 +1,6 @@
-# Alfokhuna Flintforged
+---
+title: Alfokhuna Flintforged
+---
 
 
 ![[Alfokhuna Flintforged.png]]

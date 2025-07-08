@@ -1,4 +1,6 @@
-# Dawn City
+---
+title: Dawn City
+---
 
 **A bustling metropolis, is governed by the Triumvirate of the Arcanus Cognoscienti, seated atop the towering MoonReach Obelisk.**
 

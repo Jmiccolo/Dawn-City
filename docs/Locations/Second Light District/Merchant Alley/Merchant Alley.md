@@ -1,3 +1,5 @@
-# Merchant Alley
+---
+title: Merchant Alley
+---
 
  

@@ -1,1 +1,3 @@
-# Carigor's Gamble
+---
+title: Carigor's Gamble
+---

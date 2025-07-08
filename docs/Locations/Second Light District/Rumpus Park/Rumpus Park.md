@@ -1,2 +1,4 @@
-# Rumpus Park
+---
+title: Rumpus Park
+---
 

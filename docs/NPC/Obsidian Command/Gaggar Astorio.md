@@ -1,4 +1,6 @@
-# Gaggar Astorio
+---
+title: Gaggar Astorio
+---
 
 [[Daknar Astorio]]'s Father
 ![[Gaggar Astario.png]]

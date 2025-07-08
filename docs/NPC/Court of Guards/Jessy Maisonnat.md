@@ -1,4 +1,6 @@
-# Jessy Maisonnat
+---
+title: Jessy Maisonnat
+---
 
 
 ![[Lieutenant Jessy Maisonnat.png]]

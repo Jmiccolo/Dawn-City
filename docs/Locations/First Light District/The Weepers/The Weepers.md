@@ -1,3 +1,5 @@
-# The Weepers
+---
+title: The Weepers
+---
 
 [[Imbert Littlefoot]]

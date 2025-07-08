@@ -1,2 +1,4 @@
-# Dashla University
+---
+title: Dashla University
+---
 

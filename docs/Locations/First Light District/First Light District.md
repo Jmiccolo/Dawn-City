@@ -1,2 +1,4 @@
-# First Light District
+---
+title: First Light District
+---
 

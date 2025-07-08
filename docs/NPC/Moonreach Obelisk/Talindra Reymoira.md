@@ -1,4 +1,6 @@
-# Talindra Reymoira
+---
+title: Talindra Reymoira
+---
 
 ![[Talindra Reymoira.png]]
 

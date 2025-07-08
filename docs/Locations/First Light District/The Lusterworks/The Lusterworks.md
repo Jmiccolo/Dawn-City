@@ -1,2 +1,4 @@
-# The Lusterworks
+---
+title: The Lusterworks
+---
 

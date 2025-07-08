@@ -1,3 +1,5 @@
-# Beaumont
+---
+title: Beaumont
+---
 
 Partner of Remy and Argalyn's. Procures goods for shops in Merchant Alley. Kidnapped by Toothless Winny and under his care. 

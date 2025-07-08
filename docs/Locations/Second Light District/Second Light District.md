@@ -1,1 +1,3 @@
-# Second Light District
+---
+title: Second Light District
+---

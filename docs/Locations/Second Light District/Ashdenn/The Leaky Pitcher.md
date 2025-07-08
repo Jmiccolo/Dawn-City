@@ -1,4 +1,6 @@
-# The Leaky Pitcher
+---
+title: The Leaky Pitcher
+---
 
 **The bar in [[Ashdenn]] that [[Lucy Daring]] brings the party to after being interrogated by [[Jessy Maisonnat]].** 
 
