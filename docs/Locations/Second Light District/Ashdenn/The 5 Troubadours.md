@@ -1,1 +1,3 @@
-# The 5 Troubadours
+---
+title: The 5 Troubadours
+---
