@@ -3,4 +3,4 @@ title: Jessy Maisonnat
 ---
 
 
-![[Lieutenant Jessy Maisonnat.png]]
+![[Lieutenant Jessy Maisonnat.png | 500]]
