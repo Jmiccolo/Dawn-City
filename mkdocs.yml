@@ -5,8 +5,10 @@ theme:
 
 # Extensions
 markdown_extensions:
+  - md_in_html
+  - attr_list
+  - pymdownx.blocks.caption
   - footnotes
-  # - attr_list
   - pymdownx.arithmatex:
       generic: true
   # - pymdownx.superfences
