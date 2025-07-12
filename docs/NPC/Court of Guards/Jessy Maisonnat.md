@@ -1,7 +1,7 @@
 ---
-title: Jessy Maisonnat
+title: Lieutenant Jessy Maisonnat
 ---
+![[Lieutenant Jessy Maisonnat.png|#left|268x268]]
+{width='268', align='left'}
 
-
-![[Lieutenant Jessy Maisonnat.png | 300]]{width='300', align='left'}
-
+A Lieutenant 
